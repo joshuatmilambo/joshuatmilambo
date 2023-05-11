@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuatmilambo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning RPA and Next.js
+- 🌱 I’m currently learning AWS & TICK stack & T3 stack
 - 💞️ I’m looking to collaborate on creative projects with interesting people
 - 📫 How to reach me joshua.t.milambo@gmail.com
 
